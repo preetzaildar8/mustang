@@ -1,0 +1,184 @@
+.a{
+	position: absolute;
+	z-index: 20;
+	top: 5%;
+	width: 90%;
+	margin-left: 5%;
+}
+.my-carousel{
+	height: 500px;
+}
+.hcar{
+	position: absolute;
+	top: 20%;
+	z-index: 10;
+	margin-left: 10%;
+	color: #fff;
+	font-size: 40px;
+}
+@media screen and (max-width: 725px) {
+  .hcar {
+  	top: 15%;
+    color: #000;
+    font-size: 20px;
+    margin-left: 5%;
+  }
+}
+.hbut{
+	position: absolute;
+	top: 30%;
+	z-index: 10;
+	margin-left: 10%;
+	border-radius: 0px;
+	padding: 15px 50px;
+}
+@media screen and (max-width: 725px) {
+	.hbut{
+		top: 17%;
+		margin-left: 60%;
+		padding: 5px 20px;
+	}
+}
+.hrow1{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.hrow1 .col-md-4{
+	border-left: solid .5px #999999;
+	border-right: solid .5px #999999;
+}
+.hrow1 .col-md-4 h3{
+	font-size: 30px;
+	font-weight: 700;
+}
+.horder{
+	width: 90%;
+	background-color: #F5F5F5;
+}
+.horder .row .col-md-4 img{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 80%;
+	background: transparent;
+}
+.hobut{
+	border-radius: 0px;
+	padding: 15px 50px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.hdaily{
+	width: 90%;
+	background-color: #3A3B3C;
+	color: #fff;
+}
+.hdaily h4, .hplay h4{
+	width: 60%;
+	line-height: 25px;
+}
+@media screen and (max-width: 725px) {
+	.hdaily h4, .hplay h4{
+		width: 90%;
+	}
+}
+.my-carousel2{
+	width: 90%;
+}
+.hgal{
+	width: 90%;
+	background-color: #000;
+	color: #fff;
+}
+.hgal h1{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.my-su-form{
+	margin-top: 100px;
+	width: 70%;
+}
+.hgbut{
+	border-radius: 0px;
+	padding: 15px 60px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.parallax-window{
+	width: 90%;
+	height: 600px;
+}
+.c{
+	background-color: #999999;
+	margin-top: 50px;
+	width: 100%;
+}
+.c h3{
+	text-transform: uppercase;
+}
+.c ul{
+	list-style: none;
+	color: #000;
+}
+.c ul li a{
+	text-decoration: none;
+	color: #000;
+}
+.c ul li a:hover{
+	color: #fff;
+}
+.my-ihover{
+	width: 90%;
+	margin-top: 100px;
+}
+.models-breadcrumb{
+	width: 90%;
+	margin-top: 100px;
+}
+.mmodels{
+	margin-top: 30px;
+}
+.mmodels .thumbnail{
+	border: none;
+}
+.my-design{
+	margin-top: 50px;
+	width: 90%;
+}
+.my-design h4{
+	width: 70%;
+}
+@media screen and (max-width: 725px) {
+	.my-design h4{
+		width: 90%;
+	}
+}
+.my-performance{
+	background-color: #000;
+	color: #fff;
+}
+.my-contact{
+	width: 90%;
+}
+.crow1{
+	background-color: #CCCCCC;
+}
+.crow1 .col-md-4{
+	border-left: solid .5px #999999;
+	border-right: solid .5px #999999;
+}
+.crow1 .col-md-4 i{
+	font-size: 40px;
+	margin-top: 10px;
+}
+.crow2 hr{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.crow2 .table tr{
+	height: 50px;
+	font-size: 20px;
+}
+.my-login{
+	margin-top: 100px;
+	width: 70%;
+}
